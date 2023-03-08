@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PizzaList>
+	<Flavor id="1">
+		<Flabor>Cheese Pizza</Flabor>
+		<Discription>
+			It should be no shocker that a classic is the statistical favorite.
+			Cheese pizza is one of the most popular choices.
+			It will always be a simple,
+			unadorned masterpiece on its own.
+		</Discription>
+		<Price>
+			<Size>
+				<a>Large  8 Slice  - 200</a>
+				<b>Medium 6 Slice  - 150</b>
+				<c>Small  4 Slice  - 100</c>
+			</Size>
+		</Price>
+		<AddsOn>
+		<tappings>
+			Ground pork - 20
+			Bellpepper  - 20
+		</tappings>
+		</AddsOn>
+		<INGREDIENTS-Nutrition>
+			<Ingredient>
+				GROUND PORK
+				ITALIAN SEASONING
+				TOMATO SAUCE
+				MADE PIZZA DOUGH
+				SHREDDED
+				ONION, CHOPPED
+				RED BELL PEPPER, SLICED
+				OLIVES, SLICED
+			</Ingredient>
+			<Nutrition>
+				<Benifits>
+					Calories 213.
+					Total Fat 7.8g 10%
+					Saturated Fat 3.6g 18%
+					Trans Fat 0.2g.
+					Polyunsaturated Fat 1.4g.
+					Monounsaturated Fat 2.1g.
+					Cholesterol 14mg 5%
+					Sodium 478mg 21%
+				</Benifits>
+			</Nutrition>
+		</INGREDIENTS-Nutrition>
+		<TimeToCook>
+			<minutes>10-15</minutes>
+			<Second>0</Second>
+		</TimeToCook>
+		<HeatDegrees>
+			<Degrees>400F</Degrees>
+		</HeatDegrees>
+		<COOKINGINSTRUCTIONS>
+			<a>Step 1 In a pan, saute with Italian seasoning. Set aside.
+			Step 2 Spread the tomato sauce evenly on the pizza dough and top with shredded cheese,, onion, bell pepper, and olives.
+			Step 3 To cook the cheesy pizza, preheat the oven to 400F and bake for 10-15 minutes or until the cheese has melted and the sides of the pizza are crisp and golden brown.</a>
+		</COOKINGINSTRUCTIONS>
+		<Top10PizzaStore>
+			<StoreName>1Trattoria Altrove
+			2) Amare La Cucina
+			3) Da Gianni Cucina Italiana
+			4) Yellow Cab
+			5) Cibo
+			6) Salvatore Cuomo/Bar
+			7) Stephen’s Brick Oven Pizza
+			8) Wildflour
+			9) Francesco’s Kitchen
+			10) Mamma Mia</StoreName>
+		</Top10PizzaStore>
+	</Flavor>
+	
+	
+	
+	<Flavor id="2">
+		<Flabor>Veggie Pizza</Flabor>
+		<Discription>
+			When you want to jazz up your cheese pizza with color and texture,
+			veggies are the perfect topping. And you’re only limited by your imagination.
+			Everything from peppers and mushrooms,
+			to eggplant and onions make for an exciting and tasty veggie pizza.
+		</Discription>
+		<Price>
+			<Size>
+				Large  8 Slice  - 300
+				Medium 6 Slice  - 250
+				Small  4 Slice  - 200
+			</Size>		
+		</Price>
+		<AddsOn>
+			<tappings>
+				Ground pork - 20
+				Bellpepper  - 20
+				Eggplant	- 20
+				mushrooms	- 20
+			</tappings>
+		</AddsOn>
+		<INGREDIENTS-Nutrition>
+			<Ingredient>
+				Pizza Sauce
+				Baby Spinach
+				Part-Skim Mozzarella
+				Artichoke
+				Bell Pepper
+				Red Onion
+				Cherry Tomatoes
+				Olives
+				Sliced Almonds
+				Optional Garnishes
+			</Ingredient>
+			<Nutrition>
+				<Benifits>
+					Calories 370.
+					Total Fat 14g 18%
+					Saturated Fat 6.1g 31%
+					Trans Fat 0.3g.
+					Polyunsaturated Fat 2.3g.
+					Monounsaturated Fat 4.2g.
+					Cholesterol 23mg 8%
+					Sodium 867mg 38%
+				</Benifits>	
+			</Nutrition>
+		</INGREDIENTS-Nutrition>
+		<TimeToCook>
+			<minutes>10-12</minutes>
+			<Second>0</Second>
+		</TimeToCook>
+		<HeatDegrees>
+			<Degrees>400F</Degrees>
+		</HeatDegrees>
+		<COOKINGINSTRUCTIONS>
+			<a>To cook the pizza, preheat your oven to 400 degrees fahrenheit.
+			Remove all the packing, place the pizza directly on the middle oven rack for 15 to 18 minutes.
+			Once the crust is golden brown and the cheese is nice and melted,
+			let the pizza stand for about two minutes before slicing.</a>
+		</COOKINGINSTRUCTIONS>
+		<Top10PizzaStore>
+			<StoreName>
+				1) Trattoria Altrove
+				2) Amare La Cucina
+				3) Da Gianni Cucina Italiana
+				4) Yellow Cab
+				5) Cibo
+				6) Salvatore Cuomo/Bar
+				7) Stephen’s Brick Oven Pizza
+				8) Wildflour
+				9) Francesco’s Kitchen
+				10) Mamma Mia
+			</StoreName>
+		</Top10PizzaStore>
+	</Flavor>
+	
+	
+	
+	<Flavor id="3">
+		<Flabor>Pepperoni Pizza</Flabor>
+		<Discription>
+			There’s a reason this is one of the most popular types of pizza.
+			Who doesn’t love biting into a crispy, salty round of pepperoni.
+		</Discription>
+		<Price>
+			<Size>
+				<a>Large  8 Slice  - 200</a>
+				<b>Medium 6 Slice  - 150</b>
+				<c>Small  4 Slice  - 100</c>
+			</Size>
+		</Price>
+		<AddsOn>
+			<tappings>
+				Pepperoni - 20
+			</tappings>
+		</AddsOns>
+		<INGREDIENTS-Nutrition>
+			<Ingredient>
+				pizza sauce
+				pepperoni
+				mozzarella cheese, grated
+				black pepper
+			</Ingredient>
+			<Nutrition>
+				<Benifits>
+					Calories 440.
+					Total Fat 21 g.
+					Cholesterol 50 mg.
+					Sodium 820 mg.
+					Carbohydrates 34 g.
+					Protein 23 g.
+					Ingredients:
+				</Benifits>
+			</Nutrition>
+		</INGREDIENTS-Nutrition>
+		<TimeToCook>
+			<minutes>12-15</minutes>
+			<Second>0</Second>
+		</TimeToCook>
+		<HeatDegrees>
+			<Degrees>400F</Degrees>
+		</HeatDegrees>
+		<COOKINGINSTRUCTIONS>
+			<a>TPreheat your oven to 400 degrees Fahrenheit,
+			then toss the pizza inside for about 20 minutes
+			(ours took a bit longer than that; we left it in for about 25 minutes).
+			The instructions say to place the pizza directly on the center rack,
+			but we used a baking sheet, like we always do</a>
+		</COOKINGINSTRUCTIONS>
+		<Top10PizzaStore>
+			<StoreName>
+				1) Trattoria Altrove
+				2) Amare La Cucina
+				3) Da Gianni Cucina Italiana
+				4) Yellow Cab
+				5) Cibo
+				6) Salvatore Cuomo/Bar
+				7) Stephen’s Brick Oven Pizza
+				8) Wildflour
+				9) Francesco’s Kitchen
+				10) Mamma Mia
+			</StoreName>
+		</Top10PizzaStore>
+	</Flavor>
+	
+	
+	<Flavor id="4">
+		<Flabor>Hawaiian Pizza</Flabor>
+		<Discription>
+			TPineapple might not be the first thing that comes to mind when you think pizza.
+			But add in some ham and it creates an unexpectedly solid
+			sweet and salty combination for this type of pizza.
+		</Discription>
+		<Price>
+			<Size>
+				<a>Large  8 Slice  - 250</a>
+				<b>Medium 6 Slice  - 170</b>
+				<c>Small  4 Slice  - 120</c>
+			</Size>
+		</Price>
+		<AddsOn>
+			<tappings>
+				pineapple chunks - 20
+				bacon			 - 20
+			</tappings>
+		</AddsOn>
+		<INGREDIENTS-Nutrition>
+			<Ingredient>
+				olive oil,
+				cornmeal
+				pizza sauce
+				mozzarella cheese
+				ham or Canadian bacon, sliced or chopped
+				pineapple chunks
+				bacon, cooked and crumbled
+			</Ingredient>
+
+			<Nutrition>
+				<Benifits>
+					carbs 37g.
+					Fiber2g.
+					Total Carbs.39g.
+					Protein.12g.
+					Fats 6g.
+				</Benifits>
+			</Nutrition>
+		</INGREDIENTS-Nutrition>
+		<TimeToCook>
+			<minutes>15-20</minutes>
+			<Second>0</Second>
+		</TimeToCook>
+		<HeatDegrees>
+			<Degrees>475F</Degrees>
+		</HeatDegrees>
+		<COOKINGINSTRUCTIONS>
+			<a>Preheat oven to 475°F (246°C).
+			Allow it to heat for at least 15–20 minutes as you
+			shape the pizza in the next step. If using a pizza
+			stone, place it in the oven to preheat as well.
+			Lightly grease a large baking sheet or pizza pan with 1/2
+			Tablespoon of olive oil. Sprinkle lightly with cornmeal,
+			which gives the crust extra crunch and flavor.
+			Shape the dough: When the homemade dough is ready,
+			punch it down to release any air bubbles. Divide
+			the dough in half and freeze half the dough for another
+			time—see freezing instructions in the pizza dough recipe.
+			On a lightly floured work surface using lightly floured hands or
+			rolling pin, gently flatten the dough into a disc. Place on prepared pan and,
+			using lightly floured hands, stretch and flatten the disc into a 12-inch circle,
+			about 1/2-inch thick. If the dough keeps shrinking back as you try to stretch it,
+			stop what you’re doing, cover it lightly and let it rest for 5–10 minutes, then try again.
+			Once shaped into a 12-inch circle, lift the edge of the dough up to create a lip around the edges.
+			I simply pinch the edges up to create the rim. If using a pizza stone,
+			place the dough directly on a baker’s peel dusted with cornmeal.
+			Cover dough lightly with plastic wrap or a clean kitchen towel and allow to rest for a few minutes as you
+			gather the pizza toppings.</a>
+		</COOKINGINSTRUCTIONS>
+		<Top10PizzaStore>
+			<StoreName>
+				1) Trattoria Altrove
+				2) Amare La Cucina
+				3) Da Gianni Cucina Italiana
+				4) Yellow Cab
+				5) Cibo
+				6) Salvatore Cuomo/Bar
+				7) Stephen’s Brick Oven Pizza
+				8) Wildflour
+				9) Francesco’s Kitchen
+				10) Mamma Mia
+			</StoreName>
+		</Top10PizzaStore>
+	</Flavor>
+	
+	
+	
+	<Flavor id="5">
+		<Flabor>The Works Pizza</Flabor>
+		<Discription>
+			<a>And when the supreme just isn’t enough,
+			you’re ready for the works. It’s a step up in heartiness from the supreme.
+			The “works” usually involves a wide variety of veggie toppings including onions,
+			olives, and mushrooms, plus bacon and pepperoni.</a>
+		</Discription>
+		<Price>
+			<Size>
+				<a>Large  8 Slice  - 250</a>
+				<b>Medium 6 Slice  - 170</b>
+				<c>Small  4 Slice  - 120</c>
+			</Size>
+		</Price>
+		<AddsOn>
+			<tappings>
+				pepperoni - 20
+				julienne-cut Canadian bacon - 20
+				spicy Italian sausage - 50
+				mozzarella cheese - 20
+				fresh-cut onions - 20
+				crisp green peppers - 20
+				ripe black olives -20
+				mushrooms
+			</tappings>
+		</AddsOn>
+		<INGREDIENTS-Nutrition>
+			<Ingredient>
+				pepperoni
+				julienne-cut Canadian bacon
+				spicy Italian sausage
+				mozzarella cheese
+				fresh-cut onions
+				crisp green peppers
+				ripe black olives
+				mushrooms
+			</Ingredient>
+
+			<Nutrition>
+				alories.368.4 kCal.
+				Total Carbs.41 g. Net Carbs.
+				37.1 g. Fiber. 3.8 g.
+				Starch. - Sugar. 7.4 g.
+				Sugar Alcohols.
+				-Protein. 15.8 g.
+				Fat. 15.7 g.
+				Monounsat. Fat. 5.6 g.
+				Polyunsat. Fat. 2.9 g.
+				Saturated Fat. 5.8 g.
+				Cholesterol. 32.2 mg.
+				Glycemic Load. -
+			</Nutrition>
+		</INGREDIENTS-Nutrition>
+		<TimeToCook>
+			<minutes>20-25</minutes>
+			<Second>00</Second>
+		</TimeToCook>
+		<HeatDegrees>
+			<Degrees>450F</Degrees>
+		</HeatDegrees>
+		<COOKINGINSTRUCTIONS>
+			<a>
+				Step 1 Preheat oven to 450°.
+				
+				Step 2 To prepare topping,
+				heat 1 teaspoon olive oil in a heavy medium skillet over medium heat.
+				Cook sausage in hot oil 5 minutes or until browned; stir to crumble.
+				Add bell pepper, mushrooms, and onion; cook 4 minutes or until vegetables
+				are tender, stirring occasionally. Add garlic; sauté 1 minute. Stir in olives;
+				drain sausage mixture on paper towels.
+
+				Step 3 To prepare crust, dissolve yeast and 1/2 teaspoon sugar
+				in warm soy milk in a small bowl; let stand 5 minutes.
+
+				Step 4 Weigh or lightly spoon 3 ounces brown rice flour (3/4 cup) into dry measuring cups;
+				level with a knife. Place brown rice flour, remaining 2 teaspoons sugar, cornstarch,
+				and next 3 ingredients in a food processor.
+				With processor on, pour yeast mixture, 1 tablespoon olive oil,
+				and vinegar through food chute; process 30 seconds, adding 2
+				tablespoons brown rice flour, 1 tablespoon at a time if necessary,
+				until mixture forms a ball.
+
+				Step 5Coat a 12-inch pizza pan with cooking spray. Place dough on pan;
+				dust with remaining 2 tablespoons brown rice flour to prevent sticking to fingers.
+				Press dough onto pan; crimp edges of dough with fingers to form a rim.
+				Place on bottom rack of oven.
+
+				Step 6 Bake at 450° for 10 minutes.
+				Remove from oven, and brush edges of crust with remaining 1 teaspoon olive oil.
+				Spread pizza sauce evenly over crust. Top with sausage mixture and cheese.
+				Place on middle rack of oven. Bake at 450° for 15 minutes.
+				Cool pizza in pan on a wire rack 5 minutes. Cut into 6 wedges.
+
+				Step 7Cooking Tip Xanthan gum is a corn-based product often used in gluten-free baking as a
+				substitute for wheat gluten to thicken and bind. Using too much can result in a baked good
+				that is heavy or gummy, so be sure to measure carefully. Most recipes call for 1 to 2
+				teaspoons—a little can go a long way.
+			</a>
+		</COOKINGINSTRUCTIONS>
+		<Top10PizzaStore>
+			<StoreName>
+				1) Trattoria Altrove
+				2) Amare La Cucina
+				3) Da Gianni Cucina Italiana
+				4) Yellow Cab
+				5) Cibo
+				6) Salvatore Cuomo/Bar
+				7) Stephen’s Brick Oven Pizza
+				8) Wildflour
+				9) Francesco’s Kitchen
+				10) Mamma Mia
+			</StoreName>
+		</Top10PizzaStore>
+	</Flavor>
+</PizzaList>
